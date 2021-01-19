@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+	  <text>{{motto}}</text>
+    <button bindtap="tapName"> 启动位置 </button>
+  </view>
+</view>
